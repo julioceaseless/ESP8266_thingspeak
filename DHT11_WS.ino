@@ -8,8 +8,8 @@ dht DHT;
 #define DHT11_PIN 5
 char ledPin = 13;
 //  thingspeak API key
-String apiKey = "9107BL5PDTLSMDUP"; //thingspeak
-String twitterAPIkey = "54C67G2ZH329V7AS"; // tweeting bird
+String apiKey = "9107BL5PDTLSXXXX"; //thingspeak
+String twitterAPIkey = "XXXX7G2ZH329V7AS"; // tweeting bird
 String field[]= {"&field1=","&field2="} ;
 String f2     = "&field2=";
 String reset  = "AT+RST";
